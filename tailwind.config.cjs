@@ -19,6 +19,10 @@ module.exports = {
 			'4': '24px',
 			'5': '32px',
 			'6': '48px',
+			'7': '52px',
+			'8': '64px',
+			'9': '72px',
+			'10': '84px'
 		  },
 	},
 	plugins: [require("prettier-plugin-tailwindcss")],
