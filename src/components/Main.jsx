@@ -9,6 +9,7 @@ export default function Main() {
 			<p className="py-5 text-2xl text-white">
 				Let's make salary transparency more accessible. Start by sharing yours.
 			</p>
+			{/* insert form here */}
 		</div>
 	);
 }
