@@ -2,6 +2,11 @@
 
 Web App created to encourage salary transparency and make it more accessible!
 
+<!-- Screenshot of Project -->
+
+## How It Works:
+
+
 ## Original Contributors:
 <!-- * Zira Serrano (https://github.com/ziraserrano) -->
 <!-- * Jasmine P. Vo (https://github.com/jasminepvo) -->
@@ -23,9 +28,9 @@ Web App created to encourage salary transparency and make it more accessible!
 
 ## Optimizations
 
-When I improve this project...
+When we improve this project...
 
 ## Lessons Learned:
 
-I learned...
+We learned...
 
