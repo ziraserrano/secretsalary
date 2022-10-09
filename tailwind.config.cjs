@@ -11,6 +11,7 @@ module.exports = {
 			lightgray: "#666b6cff",
 			black: "#191e28ff",
 			white: "#e5e5e5",
+			seeThrough: "#191e28f0",
 		},
 		spacing: {
 			'1': '8px',
